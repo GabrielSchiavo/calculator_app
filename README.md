@@ -1,9 +1,9 @@
-# calculator-app
+# calculator_app
 
 <p align="left">
    <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge"/>
    <!-- <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/> -->
-   <img src="https://img.shields.io/github/license/GabrielSchiavo/calculator-app?color=blue&style=for-the-badge"/>
+   <img src="https://img.shields.io/github/license/GabrielSchiavo/calculator_app?color=blue&style=for-the-badge"/>
 </p>
 
 App de calculadora desenvolvido com a linguagem Dart e framework Flutter.
